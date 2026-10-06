@@ -1,7 +1,5 @@
-function add(a, b) {
-  return a + b;
+function divide(a, b) {
+  return a / b;
 }
 
-console.log(add(10, 20));
-
-console.log("Testing AI code review");
+console.log(divide(10, 0));
