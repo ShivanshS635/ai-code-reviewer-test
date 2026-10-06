@@ -3,6 +3,6 @@ function add(a, b) {
 }
 
 console.log(add(10, 20));
-console.log(add(15, 25));
+console.log(add(15, 26));
 
 console.log("Testing AI code review");
