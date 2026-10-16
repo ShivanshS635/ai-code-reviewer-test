@@ -2,4 +2,4 @@ function divide(a, b) {
   return a / b;
 }
 
-console.log(divide(200, 0));
+console.log(divide(2000, 0));
